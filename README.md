@@ -1,1 +1,1 @@
-# squarangle-3.0
+# squarangle
